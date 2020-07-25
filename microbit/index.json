@@ -1,0 +1,61 @@
+{
+  "base": "ref/microbit",
+  "cover": "images/cover.png",
+  "icon": "mdi-bookshelf",
+  "id": 339272,
+  "items": [
+    {
+      "id": 51594,
+      "page": "1-microbit",
+      "title": "Microbit"
+    },
+    {
+      "id": 513810,
+      "page": "2-display",
+      "title": "Display"
+    },
+    {
+      "id": 909937,
+      "page": "3-image",
+      "title": "Bilder"
+    },
+    {
+      "id": 721711,
+      "page": "4-buttons",
+      "title": "Tasten"
+    },
+    {
+      "id": 282041,
+      "page": "5-accelerometer",
+      "title": "Beschleunigungssensor"
+    },
+    {
+      "id": 224304,
+      "page": "6-compass",
+      "title": "Magnetometer"
+    },
+    {
+      "id": 407326,
+      "page": "7-digital-io",
+      "title": "digitale Ein-/Ausgabe"
+    },
+    {
+      "id": 415912,
+      "page": "8-analog-io",
+      "title": "analoge Ein-/Ausgabe"
+    },
+    {
+      "icon": "construction",
+      "id": 833571,
+      "page": "9-radio",
+      "title": "Funk"
+    },
+    {
+      "icon": "exercise",
+      "id": 136084,
+      "page": "exercises",
+      "title": "Aufgaben"
+    }
+  ],
+  "title": "micro:bit"
+}

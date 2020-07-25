@@ -1,0 +1,6 @@
+{
+  "microbit": "ref/microbit/index.json",
+  "pgzero": "ref/pgzero/index.json",
+  "python": "ref/python/index.json",
+  "thonny": "ref/thonny/index.json"
+}

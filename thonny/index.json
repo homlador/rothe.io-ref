@@ -1,0 +1,35 @@
+{
+  "base": "ref/thonny",
+  "cover": "images/cover.png",
+  "icon": "mdi-bookshelf",
+  "id": 366050,
+  "items": [
+    {
+      "id": 717866,
+      "page": "1-install",
+      "title": "Installation"
+    },
+    {
+      "id": 205093,
+      "page": "2-options",
+      "title": "Einstellungen"
+    },
+    {
+      "id": 570263,
+      "page": "3-packages",
+      "title": "Paketverwaltung"
+    },
+    {
+      "id": 238449,
+      "page": "4-code-completion",
+      "title": "Code-Vervollständigung"
+    },
+    {
+      "id": 171122,
+      "page": "5-interpreter",
+      "title": "Interpreter"
+    }
+  ],
+  "page": "index",
+  "title": "Thonny"
+}

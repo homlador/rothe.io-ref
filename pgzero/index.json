@@ -1,0 +1,120 @@
+{
+  "base": "ref/pgzero",
+  "cover": "images/cover.svg",
+  "icon": "mdi-bookshelf",
+  "id": 90476,
+  "items": [
+    {
+      "id": 454930,
+      "page": "1-window",
+      "title": "Fenster"
+    },
+    {
+      "id": 581087,
+      "page": "2-animation",
+      "title": "Animation"
+    },
+    {
+      "id": 691085,
+      "page": "3-actor",
+      "title": "Aktor"
+    },
+    {
+      "id": 549867,
+      "items": [
+        {
+          "id": 841457,
+          "page": "4-1-keyboard-state",
+          "title": "Tastaturzustand"
+        },
+        {
+          "id": 278429,
+          "page": "4-2-keyboard-event",
+          "title": "Tastaturereignisse"
+        }
+      ],
+      "page": "4-0-keyboard",
+      "title": "Tastatur"
+    },
+    {
+      "id": 72337,
+      "page": "5-mouse",
+      "title": "Maus"
+    },
+    {
+      "id": 544798,
+      "page": "6-draw",
+      "title": "Zeichnen"
+    },
+    {
+      "id": 677391,
+      "page": "7-clock",
+      "title": "Aufrufe planen"
+    },
+    {
+      "id": 248858,
+      "page": "8-sound",
+      "title": "Musik und Soundeffekte"
+    },
+    {
+      "id": 341748,
+      "items": [
+        {
+          "id": 646059,
+          "page": "8-1-keyboard-control",
+          "title": "Tastatursteuerung"
+        },
+        {
+          "id": 148454,
+          "page": "8-2-jump",
+          "title": "Jump & Run"
+        },
+        {
+          "id": 962858,
+          "page": "8-3-parallax",
+          "title": "Parallax"
+        },
+        {
+          "id": 486339,
+          "page": "8-4-bullet",
+          "title": "Geschoss"
+        }
+      ],
+      "page": "8-0-howto",
+      "title": "How-To"
+    },
+    {
+      "id": 686648,
+      "items": [
+        {
+          "id": 812352,
+          "page": "9-1-pong",
+          "title": "Pong"
+        },
+        {
+          "id": 830627,
+          "page": "9-2-paint",
+          "title": "Malprogramm"
+        },
+        {
+          "id": 807752,
+          "page": "9-3-typing",
+          "title": "Tipp-Spiel"
+        },
+        {
+          "id": 973215,
+          "page": "9-4-push-to-hole",
+          "title": "Push to Hole"
+        },
+        {
+          "id": 968856,
+          "page": "9-5-asteroids",
+          "title": "Asteriods"
+        }
+      ],
+      "page": "9-0-examples",
+      "title": "Beispiele"
+    }
+  ],
+  "title": "Pygame Zero"
+}

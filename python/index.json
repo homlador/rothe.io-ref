@@ -1,0 +1,79 @@
+{
+  "base": "ref/python",
+  "cover": "images/cover.svg",
+  "icon": "mdi-bookshelf",
+  "id": 400811,
+  "items": [
+    {
+      "id": 301846,
+      "page": "cheat-sheet",
+      "title": "Spickzettel"
+    },
+    {
+      "id": 282957,
+      "page": "comment",
+      "title": "Kommentar"
+    },
+    {
+      "id": 940441,
+      "page": "name",
+      "title": "Name"
+    },
+    {
+      "id": 945751,
+      "page": "value",
+      "title": "Wert"
+    },
+    {
+      "id": 624611,
+      "page": "statement",
+      "title": "Anweisung"
+    },
+    {
+      "id": 520095,
+      "page": "boolean",
+      "title": "Wahrheitswerte"
+    },
+    {
+      "id": 961699,
+      "page": "string",
+      "title": "Zeichenketten"
+    },
+    {
+      "id": 894885,
+      "page": "modules",
+      "title": "Module und Pakete"
+    },
+    {
+      "id": 330145,
+      "page": "random",
+      "title": "Zufall"
+    },
+    {
+      "id": 832314,
+      "page": "math",
+      "title": "Mathematik"
+    },
+    {
+      "id": 306607,
+      "page": "text-file",
+      "title": "Textdateien"
+    },
+    {
+      "id": 135970,
+      "page": "turtle",
+      "title": "Turtlegrafik"
+    },
+    {
+      "id": 503560,
+      "page": "class",
+      "title": "Klassen definieren"
+    },
+    {
+      "id": 692529,
+      "page": "operators",
+      "title": "Operatoren definieren"
+    }
+  ],
+  "title": "Python"
+}

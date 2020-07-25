@@ -1,0 +1,16 @@
+{
+  "cover.png": {
+    "author_name": "micro:bit Educational Foundation",
+    "author_uri": "http://microbit.org/",
+    "licence": "CC-BY-NC-SA-4.0",
+    "source_name": "GitHub",
+    "source_uri": "https://github.com/microbit-foundation/microbit-svg"
+  },
+  "microbit-red-heart.png": {
+    "author_name": "micro:bit Educational Foundation",
+    "author_uri": "http://microbit.org/",
+    "licence": "CC-BY-NC-SA-4.0",
+    "source_name": "GitHub",
+    "source_uri": "https://github.com/microbit-foundation/microbit-svg"
+  }
+}
