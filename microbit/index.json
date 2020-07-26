@@ -5,6 +5,10 @@
   "id": 339272,
   "items": [
     {
+      "page": "hardware",
+      "title": "Aufbau"
+    },
+    {
       "id": 51594,
       "page": "1-microbit",
       "title": "Microbit"
