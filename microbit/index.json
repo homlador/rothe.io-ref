@@ -55,10 +55,15 @@
       "title": "Funk"
     },
     {
-      "icon": "exercise",
+      "icon": "mdi-pencil",
       "id": 136084,
       "page": "exercises",
       "title": "Aufgaben"
+    },
+    {
+      "icon": "mdi-pencil",
+      "title": "Kleine Projekte",
+      "page": "projects"
     }
   ],
   "title": "micro:bit"
