@@ -1,10 +1,11 @@
 # Installation
 ---
 
-Auf der Webseite von Thonny stehen Installationsprogramme für Windows, macOS und Linux zu Verfügung. Mit einem der folgenden Links kann das gewünschte Installationsprogramm direkt heruntergeladen werden:
+Auf der Webseite von Thonny stehen Installationsprogramme für Windows, macOS und Linux zu Verfügung:
 
 * [:link: Offizielle Webseite von Thonny](http://thonny.org/)
 
+In den folgenden Abschnitten wird die Installation schrittweise erklärt.
 
 ### :mdi-microsoft-windows: Installation auf Windows
 
