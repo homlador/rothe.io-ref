@@ -1,7 +1,7 @@
 {
-  "microbit": "ref/microbit/index.json",
+  "microbit-ref": "ref/microbit/index.json",
   "mu-editor": "ref/mu-editor/index.json",
-  "pgzero": "ref/pgzero/index.json",
-  "python": "ref/python/index.json",
+  "pgzero-ref": "ref/pgzero/index.json",
+  "python-ref": "ref/python/index.json",
   "thonny": "ref/thonny/index.json"
 }
