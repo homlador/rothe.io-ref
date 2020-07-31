@@ -1,4 +1,4 @@
-# :mdi-bookshelf: Pygame Zero
+# :reference: Pygame Zero
 ---
 
 ![](images/logo.svg)

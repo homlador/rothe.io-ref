@@ -1,4 +1,4 @@
-# :mdi-bookshelf: micro:bit
+# :reference: micro:bit
 ---
 
 ![micro:bit](images/microbit-red-heart.png)

@@ -1,4 +1,4 @@
-# :mdi-bookshelf: Python-Referenz
+# :reference: Python-Referenz
 ---
 
 ![](images/python-logo.svg)

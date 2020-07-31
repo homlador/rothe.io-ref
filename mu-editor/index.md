@@ -1,4 +1,4 @@
-# Mu-Editor
+# :reference: Mu-Editor
 ---
 
 Wir verwenden für die Programmierung den **Mu**-Editor:
@@ -30,7 +30,7 @@ Der Mu Editor hat ein relativ einfaches Menü. Die meisten Befehle stehen in jed
 
 Beim ersten Start von Mu muss ein Modus ausgewählt werden. Der Modus kann jederzeit mit dem Menüpunkt _Mode_ gewechselt werden.
 
-![](images/mu-mode.png "Auswahl des Modus in Mu")
+![Auswahl des Modus in Mu](images/mu-mode.png)
 
 ## Speichern unter
 

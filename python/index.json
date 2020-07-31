@@ -1,7 +1,7 @@
 {
   "base": "ref/python",
   "cover": "images/cover.svg",
-  "icon": "mdi-bookshelf",
+  "icon": "reference",
   "id": 400811,
   "items": [
     {

@@ -1,7 +1,7 @@
 {
   "base": "ref/microbit",
   "cover": "images/cover.png",
-  "icon": "mdi-bookshelf",
+  "icon": "reference",
   "id": 339272,
   "items": [
     {

@@ -1,4 +1,4 @@
-# Thonny
+# :reference: Thonny
 ---
 
 ![Thonny-Entwicklungsumgebung](images/thonny.png)

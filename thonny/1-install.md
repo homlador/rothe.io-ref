@@ -11,7 +11,7 @@ In den folgenden Abschnitten wird die Installation schrittweise erklärt.
 
 Lade Thonny herunter und installiere es:
 
-* [:mdi-download: Thonny 3.2.7 für Windows][1]
+* [:download: Thonny 3.2.7 für Windows][1]
 
 ::: details Installation Schritt für Schritt
 
@@ -47,7 +47,7 @@ Lade Thonny herunter und installiere es:
 
 ### :mdi-apple: Installation auf macOS
 
-* [:mdi-download: Thonny 3.2.7 für macOS][2]
+* [:download: Thonny 3.2.7 für macOS][2]
 
 Auf macOS kann Thonny auch via [Homebrew](https://brew.sh) installiert werden:
 

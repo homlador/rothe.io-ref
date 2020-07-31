@@ -1,7 +1,7 @@
 {
   "base": "ref/pgzero",
   "cover": "images/cover.svg",
-  "icon": "mdi-bookshelf",
+  "icon": "reference",
   "id": 90476,
   "items": [
     {

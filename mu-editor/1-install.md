@@ -11,13 +11,13 @@ In den folgenden Abschnitten wird die Installation schrittweise erklärt.
 
 Lade den Mu Editor für Windows herunter und installiere ihn:
 
-* [:mdi-download: Mu 1.1.0 alpha 2 für Windows][2]
+* [:download: Mu 1.1.0 alpha 2 für Windows][2]
 
 ## :mdi-apple: Installation macOS
 
 1. Lade den Mu Editor für macOS herunter:
 
-    * [:mdi'download: Mu 1.1.0 alpha 2 für macOS][1]
+    * [:download: Mu 1.1.0 alpha 2 für macOS][1]
 
 2. Öffne die Instalationsdatei und ziehe den Mu Editor in das _Applications_-Verzeichnis
 

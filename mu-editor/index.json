@@ -1,7 +1,7 @@
 {
   "title": "Mu Editor",
   "base": "ref/mu-editor",
-  "icon": "mdi-bookshelf",
+  "icon": "reference",
   "cover": "images/cover.png",
   "id": 121057,
   "page": "index",

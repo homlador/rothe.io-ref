@@ -1,7 +1,7 @@
 {
   "base": "ref/thonny",
   "cover": "images/cover.png",
-  "icon": "mdi-bookshelf",
+  "icon": "reference",
   "id": 366050,
   "items": [
     {

@@ -5,6 +5,6 @@ Die Code-Vervollständigung (engl. *code completion*) ist ein hilfreiches Werkze
 
 In Mu erscheint beim Schreiben nach mindestens zwei Buchstaben eine Liste von möglichen Ergänzungen, welche an dieser Stelle sinnvoll sind. Wenn beispielsweise `scr` geschrieben wird, erscheint eine Liste mit den Vorschlägen `screen` und `screensize`:
 
-![](images/mu-code-completion.png "Automatische Vervollständigung")
+![Automatische Vervollständigung](images/mu-code-completion.png)
 
 Nun kann mit den Pfeiltasten [Up] und [Down] der gewünschte Eintrag gesucht und mit [Enter] eingefügt werden. Ein Eintrag kann auch durch einen _Doppelklick_ eingefügt werden.
