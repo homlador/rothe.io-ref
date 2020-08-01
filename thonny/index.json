@@ -1,35 +1,35 @@
 {
-  "base": "ref/thonny",
-  "cover": "images/cover.png",
-  "icon": "reference",
   "id": 366050,
+  "title": "Thonny",
+  "cover": "images/cover.png",
+  "base": "ref/thonny",
+  "icon": "reference",
+  "page": "index",
   "items": [
     {
       "id": 717866,
-      "page": "1-install",
-      "title": "Installation"
+      "title": "Installation",
+      "page": "1-install"
     },
     {
       "id": 205093,
-      "page": "2-options",
-      "title": "Einstellungen"
+      "title": "Einstellungen",
+      "page": "2-options"
     },
     {
       "id": 570263,
-      "page": "3-packages",
-      "title": "Paketverwaltung"
+      "title": "Paketverwaltung",
+      "page": "3-packages"
     },
     {
       "id": 238449,
-      "page": "4-code-completion",
-      "title": "Code-Vervollständigung"
+      "title": "Code-Vervollständigung",
+      "page": "4-code-completion"
     },
     {
       "id": 171122,
-      "page": "5-interpreter",
-      "title": "Interpreter"
+      "title": "Interpreter",
+      "page": "5-interpreter"
     }
-  ],
-  "page": "index",
-  "title": "Thonny"
+  ]
 }

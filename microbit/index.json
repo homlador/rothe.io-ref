@@ -1,70 +1,72 @@
 {
-  "base": "ref/microbit",
-  "cover": "images/cover.png",
-  "icon": "reference",
   "id": 339272,
+  "title": "micro:bit",
+  "cover": "images/cover.png",
+  "base": "ref/microbit",
+  "icon": "reference",
   "items": [
     {
-      "page": "hardware",
-      "title": "Aufbau"
+      "id": 658265,
+      "title": "Aufbau",
+      "page": "hardware"
     },
     {
       "id": 51594,
-      "page": "1-microbit",
-      "title": "Microbit"
+      "title": "Microbit",
+      "page": "1-microbit"
     },
     {
       "id": 513810,
-      "page": "2-display",
-      "title": "Display"
+      "title": "Display",
+      "page": "2-display"
     },
     {
       "id": 909937,
-      "page": "3-image",
-      "title": "Bilder"
+      "title": "Bilder",
+      "page": "3-image"
     },
     {
       "id": 721711,
-      "page": "4-buttons",
-      "title": "Tasten"
+      "title": "Tasten",
+      "page": "4-buttons"
     },
     {
       "id": 282041,
-      "page": "5-accelerometer",
-      "title": "Beschleunigungssensor"
+      "title": "Beschleunigungssensor",
+      "page": "5-accelerometer"
     },
     {
       "id": 224304,
-      "page": "6-compass",
-      "title": "Magnetometer"
+      "title": "Magnetometer",
+      "page": "6-compass"
     },
     {
       "id": 407326,
-      "page": "7-digital-io",
-      "title": "digitale Ein-/Ausgabe"
+      "title": "digitale Ein-/Ausgabe",
+      "page": "7-digital-io"
     },
     {
       "id": 415912,
-      "page": "8-analog-io",
-      "title": "analoge Ein-/Ausgabe"
+      "title": "analoge Ein-/Ausgabe",
+      "page": "8-analog-io"
     },
     {
-      "icon": "construction",
       "id": 833571,
-      "page": "9-radio",
-      "title": "Funk"
+      "title": "Funk",
+      "icon": "construction",
+      "page": "9-radio"
     },
     {
-      "icon": "mdi-pencil",
       "id": 136084,
-      "page": "exercises",
-      "title": "Aufgaben"
+      "title": "Aufgaben",
+      "icon": "mdi-pencil",
+      "page": "exercises"
     },
     {
-      "icon": "mdi-pencil",
+      "id": 670673,
       "title": "Kleine Projekte",
+      "icon": "mdi-pencil",
       "page": "projects"
     }
-  ],
-  "title": "micro:bit"
+  ]
 }
