@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="480px" height="128px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Transition">
+        <path d="M292,58L304,64L292,70C295,67 295,61 292,58Z"/>
+        <path d="M176,64L294.4,64" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M176,56C176,51.585 172.415,48 168,48L56,48C51.585,48 48,51.585 48,56L48,72C48,76.415 51.585,80 56,80L168,80C172.415,80 176,76.415 176,72L176,56Z" style="fill:rgb(189,189,189);stroke:black;stroke-width:2px;"/>
+        <path d="M432,56C432,51.585 428.415,48 424,48L312,48C307.585,48 304,51.585 304,56L304,72C304,76.415 307.585,80 312,80L424,80C428.415,80 432,76.415 432,72L432,56Z" style="fill:rgb(189,189,189);stroke:black;stroke-width:2px;"/>
+        <text x="212.91px" y="59.766px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Aktion</text>
+    </g>
+</svg>

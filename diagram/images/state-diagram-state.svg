@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="480px" height="128px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Zustand">
+        <path d="M147.989,58.022L160,64L148.011,70.022C151.006,67.017 150.994,61.017 147.989,58.022Z"/>
+        <path d="M32,64.238C32,64.238 120.653,64.073 150.4,64.018" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M404,58.238L416,64.238L404,70.238C407,67.238 407,61.238 404,58.238Z"/>
+        <path d="M288,64.238L406.4,64.238" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M288,56C288,51.585 284.415,48 280,48L168,48C163.585,48 160,51.585 160,56L160,72C160,76.415 163.585,80 168,80L280,80C284.415,80 288,76.415 288,72L288,56Z" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+        <text x="188.39px" y="71.041px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Zustand</text>
+    </g>
+</svg>

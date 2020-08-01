@@ -2,6 +2,9 @@
 ---
 
 ::: cards 3
+<VueBook name="diagram"/>
+
+***
 <VueBook name="python-ref"/>
 
 ***

@@ -1,4 +1,5 @@
 {
+  "diagram": "ref/diagram/index.json",
   "microbit-ref": "ref/microbit/index.json",
   "mu-editor": "ref/mu-editor/index.json",
   "pgzero-ref": "ref/pgzero/index.json",

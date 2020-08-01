@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="480px" height="128px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Endzustand">
+        <path d="M288,48C296.831,48 304,55.169 304,64C304,72.831 296.831,80 288,80C279.169,80 272,72.831 272,64C272,55.169 279.169,48 288,48ZM288,49.6C295.948,49.6 302.4,56.052 302.4,64C302.4,71.948 295.948,78.4 288,78.4C280.052,78.4 273.6,71.948 273.6,64C273.6,56.052 280.052,49.6 288,49.6Z"/>
+        <circle cx="288" cy="64" r="10"/>
+        <path d="M260,58L272,64L260,70C263,67 263,61 260,58Z"/>
+        <path d="M176,64L262.4,64" style="fill:none;stroke:black;stroke-width:2px;"/>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "id": 666578,
+  "title": "Diagramme",
+  "base": "ref/diagram",
+  "icon": "reference",
+  "items": [
+    {
+      "id": 576712,
+      "title": "Zustandsdiagramm",
+      "page": "state-diagram"
+    }
+  ]
+}

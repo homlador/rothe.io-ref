@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="640px" height="224px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Startzustand">
+        <path d="M147.985,106.03L160,112L148.015,118.03C151.007,115.022 150.993,109.022 147.985,106.03Z"/>
+        <path d="M58,112.254C58,112.254 125.005,112.087 150.4,112.024" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <circle cx="48" cy="112" r="10"/>
+    </g>
+    <g id="Zustand">
+        <path d="M499.147,131.34L512,127.492L507.367,140.083C507.498,135.843 503.388,131.471 499.147,131.34Z"/>
+        <path d="M256,128C317.746,189.746 439.064,191.921 505.006,134.068" style="fill:none;stroke:black;stroke-width:2px;"/>
+    </g>
+    <path d="M352,104C352,99.585 348.415,96 344,96L168,96C163.585,96 160,99.585 160,104L160,120C160,124.415 163.585,128 168,128L344,128C348.415,128 352,124.415 352,120L352,104Z" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+    <text x="196.508px" y="119.041px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">leuchtet nicht</text>
+    <path d="M608,104C608,99.585 604.415,96 600,96L424,96C419.585,96 416,99.585 416,104L416,120C416,124.415 419.585,128 424,128L600,128C604.415,128 608,124.415 608,120L608,104Z" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+    <text x="476.409px" y="119.041px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">leuchtet</text>
+    <g id="Zustand1" serif:id="Zustand">
+        <path d="M268.868,92.204L256,96L260.685,83.428C260.536,87.668 264.628,92.056 268.868,92.204Z"/>
+        <path d="M512,96C450.262,34.262 328.969,32.08 263.021,89.453" style="fill:none;stroke:black;stroke-width:2px;"/>
+    </g>
+    <text x="333.731px" y="198.316px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">einschalten</text>
+    <text x="330.958px" y="40.316px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">ausschalten</text>
+</svg>
