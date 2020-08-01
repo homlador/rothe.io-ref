@@ -1,7 +1,7 @@
 # :reference: Referenz
 ---
 
-::: columns 3
+::: cards 3
 <v-book name="python-ref"></v-book>
 ***
 <v-book name="thonny"></v-book>
