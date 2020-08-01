@@ -2,13 +2,13 @@
 ---
 
 ::: cards 3
-<v-book name="python-ref"></v-book>
+<VueBook name="python-ref"/>
 ***
-<v-book name="thonny"></v-book>
+<VueBook name="thonny"/>
 ***
-<v-book name="mu-editor"></v-book>
+<VueBook name="mu-editor"/>
 ***
-<v-book name="pgzero-ref"></v-book>
+<VueBook name="pgzero-ref"/>
 ***
-<v-book name="microbit-ref"></v-book>
+<VueBook name="microbit-ref"/>
 :::
