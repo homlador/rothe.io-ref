@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="480px" height="160px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="End">
+        <path d="M246,52L240,64L234,52C237,55 243,55 246,52Z"/>
+        <path d="M240,32L240,54.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M321,80C321,71.169 313.831,64 305,64L177,64C168.169,64 161,71.169 161,80C161,88.831 168.169,96 177,96L305,96C313.831,96 321,88.831 321,80Z" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+        <text x="216.27px" y="87.041px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Ende</text>
+    </g>
+</svg>

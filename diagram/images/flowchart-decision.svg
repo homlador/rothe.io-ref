@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="480px" height="160px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Decision">
+        <path d="M246,116L240,128L234,116C237,119 243,119 246,116Z"/>
+        <path d="M240,96L240,118.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M340,58L352,64L340,70C343,67 343,61 340,58Z"/>
+        <path d="M320,64L342.4,64" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M240,32L320,64L240,96L160,64L240,32Z" style="fill:rgb(255,204,128);stroke:black;stroke-width:2px;"/>
+        <text x="198.262px" y="71.163px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Al dente?</text>
+        <text x="248.425px" y="111.756px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Ja</text>
+        <text x="318.477px" y="55.316px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Nein</text>
+    </g>
+</svg>

@@ -3,4 +3,5 @@
 
 Nachschlagewerk für verschiedene Diagrammtypen und Darstellungen, welche in der Informatik verwendet werden.
 
-* [Zustandsdiagramm](?page=state-diagram)
+* [Flussdiagramm](?page=flowchart)
+* [Zustandsdiagramm](?page=statechart)

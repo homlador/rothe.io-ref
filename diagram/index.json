@@ -5,9 +5,13 @@
   "icon": "reference",
   "items": [
     {
+      "title": "Flussdiagramm",
+      "page": "flowchart"
+    },
+    {
       "id": 576712,
       "title": "Zustandsdiagramm",
-      "page": "state-diagram"
+      "page": "statechart"
     }
   ]
 }

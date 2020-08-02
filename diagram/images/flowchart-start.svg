@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="480px" height="160px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <g id="Action">
+    <g id="Start">
         <path d="M246,116L240,128L234,116C237,119 243,119 246,116Z"/>
         <path d="M240,96L240,118.4" style="fill:none;stroke:black;stroke-width:2px;"/>
-        <rect x="96" y="64" width="288" height="32" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
-        <text x="158.12px" y="87.163px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">W<tspan x="176.255px 187.378px " y="87.163px 87.163px ">as</tspan>ser aufkochen</text>
+        <path d="M384,80C384,71.169 376.831,64 368,64L112,64C103.169,64 96,71.169 96,80C96,88.831 103.169,96 112,96L368,96C376.831,96 384,88.831 384,80Z" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+        <text x="128.726px" y="85.176px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Spaghetti Napoletana (n)</text>
     </g>
 </svg>

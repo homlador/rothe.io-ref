@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="640px" height="832px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Spaghetti-Napoletana" serif:id="Spaghetti Napoletana">
+        <g id="End">
+            <path d="M512,304C512,295.169 504.831,288 496,288L400,288C391.169,288 384,295.169 384,304C384,312.831 391.169,320 400,320L496,320C504.831,320 512,312.831 512,304Z" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+            <text x="423.27px" y="311.041px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Ende</text>
+        </g>
+        <g id="_1-min-kochen" serif:id="1 min kochen">
+            <path d="M454,276L448,288L442,276C445,279 451,279 454,276Z"/>
+            <path d="M448,256L448,278.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <rect x="352" y="224" width="192" height="32" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+            <text x="368.146px" y="245.181px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Olivenöl beigeben</text>
+        </g>
+        <g id="Tomatensosse">
+            <path d="M454,212L448,224L442,212C445,215 451,215 454,212Z"/>
+            <path d="M448,192L448,214.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <rect x="352" y="160" width="192" height="32" style="fill:rgb(239,154,154);stroke:black;stroke-width:2px;"/>
+            <path d="M537,160L537,192" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <path d="M359,160L359,192" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <text x="368.649px" y="181.176px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">T<tspan x="378.649px 389.772px " y="181.176px 181.176px ">om</tspan>atensosse (n)</text>
+        </g>
+        <g id="Spaghetti">
+            <path d="M454,148L448,160L442,148C445,151 451,151 454,148Z"/>
+            <path d="M448,128L448,150.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <rect x="352" y="96" width="192" height="32" style="fill:rgb(239,154,154);stroke:black;stroke-width:2px;"/>
+            <path d="M537,96L537,128" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <path d="M359,96L359,128" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <text x="390.656px" y="117.176px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Spaghetti (n)</text>
+        </g>
+        <g id="Start-Spaghetti-Napoletana" serif:id="Start Spaghetti Napoletana">
+            <path d="M454,84L448,96L442,84C445,87 451,87 454,84Z"/>
+            <path d="M448,64L448,86.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <path d="M576,48C576,39.169 568.831,32 560,32L336,32C327.169,32 320,39.169 320,48C320,56.831 327.169,64 336,64L560,64C568.831,64 576,56.831 576,48Z" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+            <text x="336.726px" y="53.176px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Spaghetti Napoletana (n)</text>
+        </g>
+    </g>
+    <g id="Spaghetti1" serif:id="Spaghetti">
+        <g id="End1" serif:id="End">
+            <path d="M224,784C224,775.169 216.831,768 208,768L112,768C103.169,768 96,775.169 96,784C96,792.831 103.169,800 112,800L208,800C216.831,800 224,792.831 224,784Z" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+            <text x="136.27px" y="791.041px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Ende</text>
+        </g>
+        <g id="Olivenöl-beigeben" serif:id="Olivenöl beigeben">
+            <path d="M166,756L160,768L154,756C157,759 163,759 166,756Z"/>
+            <path d="M160,736L160,758.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <rect x="64" y="704" width="192" height="32" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+            <text x="80.146px" y="725.181px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Olivenöl beigeben</text>
+        </g>
+        <g id="Mit-Sosse-" serif:id="Mit Sosse?">
+            <path d="M166,692L160,704L154,692C157,695 163,695 166,692Z"/>
+            <path d="M160,672L160,694.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <path d="M172,758L160,752L172,746C169,749 169,755 172,758Z"/>
+            <path d="M240,640L288,640L288,752L169.6,752" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <path d="M160,608L240,640L160,672L80,640L160,608Z" style="fill:rgb(255,204,128);stroke:black;stroke-width:2px;"/>
+            <text x="118.262px" y="647.163px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Mit Sosse?</text>
+            <text x="168.425px" y="687.756px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Nein</text>
+            <text x="245.477px" y="634.316px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Ja</text>
+        </g>
+        <g id="Wasser-abgiessen" serif:id="Wasser abgiessen">
+            <path d="M166,596L160,608L154,596C157,599 163,599 166,596Z"/>
+            <path d="M160,576L160,598.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <rect x="64" y="544" width="192" height="32" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+            <text x="78.677px" y="565.054px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">W<tspan x="96.812px 107.935px " y="565.054px 565.054px ">as</tspan>ser abgiessen</text>
+        </g>
+        <g id="Al-dente-" serif:id="Al dente?">
+            <path d="M166,532L160,544L154,532C157,535 163,535 166,532Z"/>
+            <path d="M160,512L160,534.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <path d="M172,374L160,368L172,362C169,365 169,371 172,374Z"/>
+            <path d="M240,480L288,480L288,368L169.6,368" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <path d="M160,448L240,480L160,512L80,480L160,448Z" style="fill:rgb(255,204,128);stroke:black;stroke-width:2px;"/>
+            <text x="118.262px" y="487.163px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Al dente?</text>
+            <text x="168.425px" y="527.756px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Ja</text>
+            <text x="239.477px" y="474.316px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Nein</text>
+        </g>
+        <g id="_1-min-kochen1" serif:id="1 min kochen">
+            <path d="M166,436L160,448L154,436C157,439 163,439 166,436Z"/>
+            <path d="M160,416L160,438.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <rect x="64" y="384" width="192" height="32" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+            <text x="100.122px" y="407.07px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">1 min kochen</text>
+        </g>
+        <g id="Spaghetti-beigeben" serif:id="Spaghetti beigeben">
+            <path d="M166,372L160,384L154,372C157,375 163,375 166,372Z"/>
+            <path d="M160,352L160,374.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <rect x="64" y="320" width="192" height="32" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+            <text x="74.053px" y="341.176px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Spaghetti beigeben</text>
+        </g>
+        <g id="Wasser-salzen" serif:id="Wasser salzen">
+            <path d="M166,308L160,320L154,308C157,311 163,311 166,308Z"/>
+            <path d="M160,288L160,310.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <rect x="64" y="256" width="192" height="32" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+            <text x="95.361px" y="279.041px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">W<tspan x="113.496px 124.619px " y="279.041px 279.041px ">as</tspan>ser salzen</text>
+        </g>
+        <g id="Wasser-aufkochen" serif:id="Wasser aufkochen">
+            <path d="M166,244L160,256L154,244C157,247 163,247 166,244Z"/>
+            <path d="M160,224L160,246.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <rect x="64" y="192" width="192" height="32" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+            <text x="78.12px" y="215.163px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">W<tspan x="96.255px 107.378px " y="215.163px 215.163px ">as</tspan>ser aufkochen</text>
+        </g>
+        <g id="abwägen">
+            <path d="M166,180L160,192L154,180C157,183 163,183 166,180Z"/>
+            <path d="M160,160L160,182.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <rect x="64" y="96" width="192" height="64" style="fill:rgb(165,214,167);stroke:black;stroke-width:2px;"/>
+            <g transform="matrix(1.875,0,0,1.875,-36.7598,26.164)">
+                <text x="61.504px" y="51.565px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">n×100 g Spaghetti</text>
+                <text x="83.301px" y="62.581px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;">abwägen</text>
+            </g>
+        </g>
+        <g id="Start-Spaghetti" serif:id="Start Spaghetti">
+            <path d="M166,84L160,96L154,84C157,87 163,87 166,84Z"/>
+            <path d="M160,64L160,86.4" style="fill:none;stroke:black;stroke-width:2px;"/>
+            <path d="M256,48C256,39.169 248.831,32 240,32L80,32C71.169,32 64,39.169 64,48C64,56.831 71.169,64 80,64L240,64C248.831,64 256,56.831 256,48Z" style="fill:rgb(144,202,249);stroke:black;stroke-width:2px;"/>
+            <text x="102.656px" y="53.176px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Spaghetti (n)</text>
+        </g>
+    </g>
+</svg>
