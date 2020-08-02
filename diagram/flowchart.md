@@ -3,10 +3,6 @@
 
 Ein **Flussdiagramm** (engl. *flowchart*) oder **Programmablaufplan** ist eine grafische Darstellungsform eines Algorithmus. Es besteht aus Elementen, welche einzelne Schritte des Algorithmus darstellen. Pfeile, welche die Elemente verbinden, geben die Reihenfolge an, in welcher die Schritte ausgeführt werden müssen.
 
-Das Flussdiagramm unten links beschreibt, wie Spaghetti gekocht werden. Das Flussdiagramm unten rechts beschreibt, wie Spaghetti Napoletana gekocht werden. Dabei wird der Spaghetti-Algorithmus mit einem **Aufruf** (rot) wiederverwendet.
-
-![](images/flowchart-spaghetti.svg)
-
 ## Elemente
 
 Ein Flussdiagramm wird aus folgenden Grundelementen aufgebaut:
@@ -44,3 +40,9 @@ Eine Entscheidung wird in einer Raute dargestellt.
 
 Der Aufruf eines Unterprogramms wird in einem Rechteck mit doppelten Seitenrändern dargestellt.
 :::
+
+## Beispiel
+
+Das Flussdiagramm unten links beschreibt, wie Spaghetti gekocht werden. Das Flussdiagramm unten rechts beschreibt, wie Spaghetti Napoletana gekocht werden. Dabei wird der Spaghetti-Algorithmus mit einem **Aufruf** (rot) wiederverwendet.
+
+![](images/flowchart-spaghetti.svg)
