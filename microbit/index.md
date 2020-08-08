@@ -14,31 +14,31 @@ from microbit import *
 
 Nach dieser Anweisung stehen im Skript die folgenden Objekte zu Verfügung. Sie repräsentieren je ein Teil der Hardware des micro:bit.
 
-| Objekt          | Bedeutung                    | zusätzliche Funktion |
-|:--------------- |:---------------------------- | --------------------:|
-| `accelerometer` | [Beschleunigungssensor][11]  |                      |
-| `button_a`      | [linke Taste][12]            |                      |
-| `button_b`      | [rechte Taste][12]           |                      |
-| `compass`       | [Magnetometer (Kompass)][13] |                      |
-| `display`       | [5x5 LED-Matrix][14]         |                      |
-| `pin0`          | [Anschluss 0][15]            |          Touch-Taste |
-| `pin1`          | [Anschluss 1][15]            |          Touch-Taste |
-| `pin2`          | [Anschluss 2][15]            |          Touch-Taste |
-| `pin3`          | [analoger Pin 3][16]         |              Display |
-| `pin4`          | [analoger Pin 4][16]         |              Display |
-| `pin6`          | [Anschluss 6][15]            |              Display |
-| `pin7`          | [Anschluss 7][15]            |              Display |
-| `pin8`          | [Anschluss 8][15]            |                      |
-| `pin9`          | [Anschluss 9][15]            |              Display |
-| `pin10`         | [analoger Pin 10][15]        |              Display |
-| `pin12`         | [Anschluss 12][15]           |                      |
-| `pin13`         | [Anschluss 13][15]           |             SPI MOSI |
-| `pin14`         | [Anschluss 14][15]           |             SPI MISO |
-| `pin15`         | [Anschluss 15][15]           |              SPI SCK |
-| `pin16`         | [Anschluss 16][15]           |                      |
-| `pin19`         | [Anschluss 19][15]           |              I2C SCL |
-| `pin20`         | [Anschluss 20][15]           |              I2C SDA |
-| `radio`         | [Funk][17]                   |                      |
+| Objekt          | Funktion                                   | zusätzliche Funktion |
+|:--------------- |:------------------------------------------ | --------------------:|
+| `accelerometer` | [Beschleunigungssensor][11]                |                      |
+| `button_a`      | [linke Taste][12]                          |                      |
+| `button_b`      | [rechte Taste][12]                         |                      |
+| `compass`       | [Magnetometer (Kompass)][13]               |                      |
+| `display`       | [5x5 LED-Matrix][14]                       |                      |
+| `pin0`          | [digitaler][15] / [analoger][16] Anschluss |          Touch-Taste |
+| `pin1`          | [digitaler][15] / [analoger][16] Anschluss |          Touch-Taste |
+| `pin2`          | [digitaler][15] / [analoger][16] Anschluss |          Touch-Taste |
+| `pin3`          | [digitaler][15] / [analoger][16] Anschluss |              Display |
+| `pin4`          | [digitaler][15] / [analoger][16] Anschluss |              Display |
+| `pin6`          | [digitaler][15] Anschluss                  |              Display |
+| `pin7`          | [digitaler][15] Anschluss                  |              Display |
+| `pin8`          | [digitaler][15] Anschluss                  |                      |
+| `pin9`          | [digitaler][15] Anschluss                  |              Display |
+| `pin10`         | [digitaler][15] / [analoger][16] Anschluss |              Display |
+| `pin12`         | [digitaler][15] Anschluss                  |                      |
+| `pin13`         | [digitaler][15] Anschluss                  |             SPI MOSI |
+| `pin14`         | [digitaler][15] Anschluss                  |             SPI MISO |
+| `pin15`         | [digitaler][15] Anschluss                  |              SPI SCK |
+| `pin16`         | [digitaler][15] Anschluss                  |                      |
+| `pin19`         | [digitaler][15] Anschluss                  |              I2C SCL |
+| `pin20`         | [digitaler][15] Anschluss                  |              I2C SDA |
+| `radio`         | [Funk][17]                                 |                      |
 
 ## Links
 

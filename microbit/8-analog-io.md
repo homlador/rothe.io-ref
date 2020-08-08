@@ -1,17 +1,17 @@
 # analoge Ein-/Ausgabe
 ---
 
-Der micro:bit hat drei Anschlüsse (*pins*), mit welchen analoge Ein- und Ausgabe möglich ist:
+Der micro:bit hat sechs Anschlüsse (*pins*), mit welchen analoge Ein- und Ausgabe möglich ist. Die Anschlüsse 0 bis 2 können immer verwendet werden.
 
-| Variable | zusätzliche Funktion |
-|:-------- | --------------------:|
-| `pin3`   |              Display |
-| `pin4`   |              Display |
-| `pin10`  |              Display |
+| Variable | Funktion | Variable | Funktion |
+| --------:|:-------- | --------:|:-------- |
+|   `pin0` | Touch    |   `pin3` | Display  |
+|   `pin1` | Touch    |   `pin4` | Display  |
+|   `pin2` | Touch    |  `pin10` | Display  |
 
-## Voraussetzung
+## Konflikt mit Display
 
-Die drei analogen Anschlüsse werden vom Display des micro:bit verwendet. Damit sie für die analoge Ein- oder Ausgabe verwendet werden können, muss erst das Display ausgeschaltet werden:
+Die Anschlüsse 3, 4 und 10 werden vom Display des micro:bit verwendet. Damit sie für die analoge Ein- oder Ausgabe verwendet werden können, muss erst das Display ausgeschaltet werden:
 
 ``` python
 from microbit import *

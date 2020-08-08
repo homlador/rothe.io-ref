@@ -5,31 +5,20 @@
 Die Anschlüsse 5 und 11 sind fix mit den Tasten A und B verbunden. Sie dürfen nur verwendet werden, um eine externe Taste anzuschliessen.
 :::
 
-Der micro:bit hat 17 Anschlüsse (*pins*), mit welchen analoge Ein- und Ausgabe möglich ist:
+Der micro:bit hat 17 Anschlüsse (*pins*), mit welchen digitale Ein- und Ausgabe möglich ist. Die Anschlüsse 0 bis 2, 8, 12 und 16 können immer verwendet werden. Die Anschlüsse 13 bis 15 sind für den SPI-Bus vorgesehen. 19 und 20 sind für den I2C-Bus reserviert. Diese Anschlüsse können verwendet werden, wenn nicht gleichzeitig der entsprechende Bus benötigt wird.
 
-| Variable | Typ     | zusätzliche Funktion |
-|:-------- | ------- | --------------------:|
-| `pin0`   | Touch   |          Touch-Taste |
-| `pin1`   | Touch   |          Touch-Taste |
-| `pin2`   | Touch   |          Touch-Taste |
-| `pin3`   | Analog  |              Display |
-| `pin4`   | Analog  |              Display |
-| `pin6`   | Digital |              Display |
-| `pin7`   | Digital |              Display |
-| `pin8`   | Digital |                      |
-| `pin9`   | Digital |              Display |
-| `pin10`  | Analog  |              Display |
-| `pin12`  | Digital |                      |
-| `pin13`  | Digital |             SPI MOSI |
-| `pin14`  | Digital |             SPI MISO |
-| `pin15`  | Digital |              SPI SCK |
-| `pin16`  | Digital |                      |
-| `pin19`  | Digital |              I2C SCL |
-| `pin20`  | Digital |              I2C SDA |
+| Variable | Funktion    | Variable | Funktion | Variable | Funktion |
+| --------:|:----------- | --------:|:-------- | --------:|:-------- |
+|   `pin0` | Touch-Taste |  `pin13` | SPI MOSI |   `pin3` | Display  |
+|   `pin1` | Touch-Taste |  `pin14` | SPI MISO |   `pin4` | Display  |
+|   `pin2` | Touch-Taste |  `pin15` | SPI SCK  |   `pin6` | Display  |
+|   `pin8` |             |  `pin19` | I2C SCL  |   `pin7` | Display  |
+|  `pin12` |             |  `pin20` | I2C SDA  |   `pin9` | Display  |
+|  `pin16` |             |          |          |  `pin10` | Display  |
 
-## Voraussetzung
+## Konflikt mit Display
 
-Die Anschlüsse 3, 4, 6, 7, 9 und 10 werden vom Display des micro:bit verwendet. Damit sie für die analoge Ein- oder Ausgabe verwendet werden können, muss erst das Display ausgeschaltet werden:
+Die Anschlüsse 3, 4, 6, 7, 9 und 10 werden vom Display des micro:bit verwendet. Damit sie für die digitale Ein- oder Ausgabe verwendet werden können, muss erst das Display ausgeschaltet werden:
 
 ``` python
 from microbit import *
