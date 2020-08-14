@@ -53,8 +53,8 @@ berechnet die Quadratwurzel von x.
 
 ~~~ python
 math.hypot(x, y)
-berechnet die Länge der Hypotenuse des rechtwinkligen Dreiecks mit den Katheten `x` und `y`. Die Funktion liefert also $sqrt(x^2+y^2)$ zurück.
 ~~~
+berechnet die Länge der Hypotenuse des rechtwinkligen Dreiecks mit den Katheten `x` und `y`. Die Funktion liefert also $\sqrt{x^2+y^2}$ zurück.
 
 ### Winkelfunktionen
 
