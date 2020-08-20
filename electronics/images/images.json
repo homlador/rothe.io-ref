@@ -1,0 +1,15 @@
+{
+  "led.png": {
+    "author_name": "Jsleonard",
+    "licence": "CC-BY-SA-3.0",
+    "source_name": "Wikimedia Commons",
+    "source_uri": "https://commons.wikimedia.org/wiki/File:LED01_Transparent.png"
+  }
+  "resistor-color-codes.svg": {
+    "author_name": "adlerweb",
+    "author_uri": "https://openclipart.org/user-detail/adlerweb",
+    "licence": "CC0",
+    "source_name": "openclipart",
+    "source_uri": "https://openclipart.org/detail/250258/resistor-color-code-table-german"
+  }
+}

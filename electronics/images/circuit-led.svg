@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="544px" height="272px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Widerstand">
+        <rect x="208" y="16" width="128" height="32" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <path d="M160,32L208,32" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <path d="M336,32L384,32" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+    <text x="405.707px" y="150.42px" style="font-family:'AppleMyungjo';font-size:20px;">U</text>
+    <path d="M160,32L64,32L64,48" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <path d="M464,256L64,256L64,240" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <text x="119.707px" y="151.132px" style="font-family:'AppleMyungjo';font-size:20px;">U</text>
+    <g id="Spannungsquelle">
+        <path d="M64,48L64,240" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <circle cx="64" cy="144" r="48" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+    <text x="67.323px" y="211.073px" style="font-family:'Helvetica';font-size:14px;">GND</text>
+    <g id="Leuchtdiode">
+        <g id="Diode">
+            <path d="M464,32L464,256" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M464,167.4L432,112L496,112L464,167.4Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M496,167.4L432,167.4" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <path d="M525.384,160.95L528,170.667L518.657,166.93L525.384,160.95Z"/>
+        <path d="M496,134.667C496,134.667 514.292,155.246 523.217,165.285" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <path d="M518.717,167.617L521.333,177.333L511.991,173.596L518.717,167.617Z"/>
+        <path d="M489.333,141.333C489.333,141.333 507.626,161.912 516.55,171.952" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+    <path d="M385,32L464,32" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <text x="264.01px" y="70.42px" style="font-family:'AppleMyungjo';font-size:20px;">U</text>
+    <text x="419.877px" y="155.779px" style="font-family:'AppleMyungjo';font-size:14px;">L</text>
+    <text x="279.397px" y="75.779px" style="font-family:'AppleMyungjo';font-size:14px;">V</text>
+</svg>

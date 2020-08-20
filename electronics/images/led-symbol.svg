@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="256px" height="128px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Leuchtdiode">
+        <g id="Diode">
+            <path d="M16,80L240,80" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M151.4,80L96,112L96,48L151.4,80Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M151.4,48L151.4,112" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <path d="M144.95,18.616L154.667,16L150.93,25.343L144.95,18.616Z"/>
+        <path d="M118.667,48C118.667,48 139.246,29.708 149.285,20.783" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <path d="M151.617,25.283L161.333,22.667L157.596,32.009L151.617,25.283Z"/>
+        <path d="M125.333,54.667C125.333,54.667 145.912,36.374 155.952,27.45" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+</svg>

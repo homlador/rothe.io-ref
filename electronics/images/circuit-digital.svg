@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="512px" height="288px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M288,32L64,32L64,48" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <path d="M288,256L64,256L64,240" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <g id="Spannungsquelle">
+        <path d="M64,48L64,240" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <circle cx="64" cy="144" r="48" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+    <text x="68.323px" y="211.073px" style="font-family:'Helvetica';font-size:14px;">GND</text>
+    <path d="M400,32L464,32L464,256L400,256" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <g>
+        <path d="M288,32L400,16" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <circle cx="288" cy="32" r="4" style="fill:white;stroke:black;stroke-width:1px;"/>
+        <circle cx="400" cy="32" r="4" style="fill:white;stroke:black;stroke-width:1px;"/>
+    </g>
+    <g>
+        <path d="M288,256L400,240" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <circle cx="288" cy="256" r="4" style="fill:white;stroke:black;stroke-width:1px;"/>
+        <circle cx="400" cy="256" r="4" style="fill:white;stroke:black;stroke-width:1px;"/>
+    </g>
+    <path d="M464,144L208,144" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <circle cx="208" cy="144" r="4" style="fill:white;stroke:black;stroke-width:1px;"/>
+    <text x="181.219px" y="150.797px" style="font-family:'Helvetica';font-size:20px;">Q</text>
+    <text x="309.324px" y="53.295px" style="font-family:'Helvetica';font-size:14px;">Schalter A</text>
+    <text x="313.324px" y="228.295px" style="font-family:'Helvetica';font-size:14px;">Schalter B</text>
+    <text x="68.323px" y="89.302px" style="font-family:'Helvetica';font-size:14px;">3.3V</text>
+    <circle cx="464" cy="144" r="4" style="fill:white;stroke:black;stroke-width:1px;"/>
+</svg>

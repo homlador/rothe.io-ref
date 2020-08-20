@@ -1,0 +1,10 @@
+{
+  "title": "Elektronik",
+  "base": "ref/electronics",
+  "items": [
+    {
+      "title": "Grundlagen Elektronik",
+      "page": "1-1-basics"
+    }
+  ]
+}

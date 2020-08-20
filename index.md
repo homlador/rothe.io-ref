@@ -5,6 +5,9 @@
 <VueBook name="diagram"/>
 
 ***
+<VueBook name="electronics"/>
+
+***
 <VueBook name="python-ref"/>
 
 ***

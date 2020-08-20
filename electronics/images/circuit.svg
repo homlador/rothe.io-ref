@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="544px" height="256px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Widerstand">
+        <path d="M480,64L480,192L512,192L512,64L480,64Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <path d="M496,240L496,192" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <path d="M496,64L496,16" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+    <text x="340.61px" y="135.132px" style="font-family:'AppleMyungjo';font-size:20px;">I</text>
+    <path d="M313.208,196.059L304,192L312.771,187.069C310.633,189.426 310.851,193.92 313.208,196.059Z"/>
+    <path d="M304.566,64C336.566,64 368.566,85.333 368.566,127.837C368.566,167.504 341.117,188.733 311.192,191.651" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <text x="488.898px" y="135.132px" style="font-family:'AppleMyungjo';font-size:20px;">R</text>
+    <path d="M496,16L64,16L64,32" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <path d="M496,240L64,240L64,224" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <text x="119.707px" y="135.132px" style="font-family:'AppleMyungjo';font-size:20px;">U</text>
+    <g id="Spannungsquelle">
+        <path d="M64,32L64,224" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <circle cx="64" cy="128" r="48" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+    <text x="68.323px" y="195.073px" style="font-family:'Helvetica';font-size:14px;">GND</text>
+</svg>
