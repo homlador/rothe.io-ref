@@ -5,9 +5,19 @@
   "icon": "reference",
   "items": [
     {
+      "id": 612904,
+      "title": "Löten",
+      "page": "1-1-soldering"
+    },
+    {
       "id": 778659,
       "title": "Grundlagen Elektronik",
-      "page": "1-1-basics"
+      "page": "1-2-basics"
+    },
+    {
+      "id": 684527,
+      "title": "Steckplatine",
+      "page": "1-4-breadboard"
     }
   ]
 }

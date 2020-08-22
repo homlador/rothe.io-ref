@@ -11,5 +11,23 @@
     "licence": "CC0",
     "source_name": "openclipart",
     "source_uri": "https://openclipart.org/detail/250258/resistor-color-code-table-german"
+  },
+  "soldering-cut.png": {
+    "author_name": "Andie Nordgren",
+    "licence": "CC-BY-SA-4.0",
+    "source_name": "MightyOhm",
+    "source_uri": "https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/"
+  },
+  "soldering-iron.png": {
+    "author_name": "Andie Nordgren",
+    "licence": "CC-BY-SA-4.0",
+    "source_name": "MightyOhm",
+    "source_uri": "https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/"
+  },
+  "soldering-plumbum.png": {
+    "author_name": "Andie Nordgren",
+    "licence": "CC-BY-SA-4.0",
+    "source_name": "MightyOhm",
+    "source_uri": "https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/"
   }
 }
