@@ -36,9 +36,11 @@ gibt ein pulsweitenmoduliertes Signal auf dem Anschluss aus. Der Tastgrad wird d
 ~~~ python
 pin.set_analog_period(period)
 ~~~
-legt die Periodendauer `period` im Millisekunden für das pulsweitenmodulierte Signal fest. Die kleinste mögliche Wert ist `1`.
+legt die Periodendauer `period` im Millisekunden für das pulsweitenmodulierte Signal fest. Die kleinste mögliche Wert ist `1`. **ACHTUNG:** die Periodendauer wird für alle Analog-Anschlüsse gleichzeitig festgelegt. Es ist nicht möglich, für verschiedene Anschlüsse eine unterschiedliche Periodendauer festzulegen[^1].
 
 ~~~ python
 pin.set_analog_period_microseconds(period)
 ~~~
 legt die Periodendauer `period` im Mikrosekunden für das pulsweitenmodulierte Signal fest. Die kleinste mögliche Wert ist `256`.
+
+[^1]: https://github.com/bbcmicrobit/micropython/issues/644
