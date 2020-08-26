@@ -1,8 +1,8 @@
 {
   "id": 639528,
   "title": "Elektronik",
-  "base": "ref/electronics",
   "cover": "images/cover.png",
+  "base": "ref/electronics",
   "icon": "reference",
   "items": [
     {
