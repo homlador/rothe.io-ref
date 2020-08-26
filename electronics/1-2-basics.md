@@ -70,7 +70,7 @@ $$R_V = \frac{U_V}{I} = \frac{U - U_L}{I}$$
 | $U$           | Gesamtspannung                |
 | $U_L$         | Spannung über der Leuchtdiode |
 
-::: exercise Aufgabe – Einfache Schaltung mit Leuchtdiode
+::: task Aufgabe – Einfache Schaltung mit Leuchtdiode
 1. Berechne den benötigten Vorwiderstand für eine rote Leuchtdiode (20 mA, 1.6 V) bei einer 3.3&nbsp;V- sowie bei einer 5&nbsp;V-Spannungsquelle.
 2. Vergleiche Deine Lösung mit der Musterlösung.
 3. Bringe eine Leuchtdiode zum Leuchten, indem Du den obenstehenden Schaltkreis realisierst.

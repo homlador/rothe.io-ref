@@ -10,7 +10,11 @@
     "licence": "CC-BY-SA-3.0",
     "source_name": "Wikimedia Commons",
     "source_uri": "https://commons.wikimedia.org/wiki/File:LED01_Transparent.png"
-  }
+  },
+  "neopixel.png": {
+    "author_name": "Stefan Rothe",
+    "licence": "CC-BY-NC-SA"
+  },
   "resistor-color-codes.svg": {
     "author_name": "adlerweb",
     "author_uri": "https://openclipart.org/user-detail/adlerweb",
