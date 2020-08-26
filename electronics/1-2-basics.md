@@ -49,14 +49,14 @@ Eine Leuchtdiode (engl. *light emitting diode, LED*) erzeugt Licht, wenn Strom h
 
 Eine «normale» rote Leuchtdiode benötigt eine Spannung von 1.6 V und kann einen maximalen Strom von 20 mA verkraften.
 
-![](images/led.png)
+![Leuchtdiode](images/led.png)
 
 
 ## Vorwiderstand
 
 Um den Strom klein zu halten, muss eine Schaltung mit einer Leuchtdiode durch einen Widerstand ergänzt werden.
 
-![](images/circuit-led.svg)
+![Stromkreis mit Leuchtdiode und Vorwiderstand](images/circuit-led.svg)
 
  Der benötigte Widerstand berechnet sich so:
 

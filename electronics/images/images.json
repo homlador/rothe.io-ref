@@ -1,4 +1,8 @@
 {
+  "circuit.svg": {
+    "author_name": "Stefan Rothe",
+    "licence": "CC0"
+  },
   "cover.png": {
     "author_name": "Andie Nordgren",
     "licence": "CC-BY-SA-4.0",
@@ -14,6 +18,16 @@
   "neopixel.png": {
     "author_name": "Stefan Rothe",
     "licence": "CC-BY-NC-SA"
+  },
+  "oled-0_96.png": {
+    "author_name": "bastelgarage.ch",
+    "source_name": "bastelgarage.ch",
+    "source_uri": "https://www.bastelgarage.ch/oled-display-weiss-i2c-128x64-0-96?search=ssd1306"
+  },
+  "oled-1_3.jpg": {
+    "author_name": "chipandlove.ch",
+    "source_name": "chipandlove.ch",
+    "source_uri": "https://www.chipandlove.ch/de/startseite/255-grafik-display-oled-spi-13-0000000000255.html"
   },
   "resistor-color-codes.svg": {
     "author_name": "adlerweb",
@@ -39,5 +53,15 @@
     "licence": "CC-BY-SA-4.0",
     "source_name": "MightyOhm",
     "source_uri": "https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/"
+  },
+  "wemos-lolin-d32-pro-pinout.png": {
+    "author_name": "WEMOS Electronics",
+    "source_name": "WEMOS Electronics",
+    "source_uri": "https://wiki.wemos.cc/products:d32:d32_pro"
+  },
+  "wemos-lolin-d32-top.jpg": {
+    "author_name": "WEMOS Electronics",
+    "source_name": "WEMOS Electronics",
+    "source_uri": "https://wiki.wemos.cc/products:d32:d32"
   }
 }

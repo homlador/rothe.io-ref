@@ -10,7 +10,7 @@ NeoPixel sind RGB-Leuchtdioden, welche über eine einzelne Datenleitung programm
 ## Anschluss
 
 | Pin | Bedeutung              |   ESP32 |
-| --- | ---------------------- | -------:|
+|:--- |:---------------------- | -------:|
 | +5V | Stromversorgung 5 Volt |     USB |
 | Din | Datenleitung           | wählbar |
 | GND | Masse                  |     GND |
