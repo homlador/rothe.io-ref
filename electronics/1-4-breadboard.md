@@ -3,7 +3,7 @@
 
 Eine Steckplatine (engl. *breadboard*) wird verwendet, um einen Prototyp einer Schaltung aufzubauen, ohne löten zu müssen.
 
-![](images/breadboard.svg "Schema einer Steckplatine mit Verbindungen")
+![Schema einer Steckplatine mit Verbindungen](images/breadboard.svg)
 
 Auf der Steckplatine sind jeweils fünf der inneren Kontakte vertikal miteinander verbunden.
 
