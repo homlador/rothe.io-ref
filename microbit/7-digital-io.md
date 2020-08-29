@@ -1,7 +1,7 @@
 # digitale Ein-/Ausgabe
 ---
 
-::: box warning
+::: warning
 Die Anschlüsse 5 und 11 sind fix mit den Tasten A und B verbunden. Sie dürfen nur verwendet werden, um eine externe Taste anzuschliessen.
 :::
 
