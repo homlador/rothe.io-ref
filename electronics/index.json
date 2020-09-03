@@ -39,6 +39,12 @@
           "id": 46152,
           "title": "Lolin D32 Pro",
           "page": "2-2-lolin-d32-pro"
+        },
+        {
+          "id": 605358,
+          "title": "Firmware-Update",
+          "icon": "construction",
+          "page": "6-A-update-firmware"
         }
       ]
     },
