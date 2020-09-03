@@ -22,6 +22,6 @@ Gehe folgendermassen vor, um die neueste Version von MicroPython auf einem ESP32
    esptool.py --chip esp32 --port [Port] write_flash -z 0x1000 [Datei]
    ```
 
-   Dabei muss **[Port]** durch den in Schritt 4 bestimmten Port ersetzt werden und **[Datei]** durch den Namen der in Schritt 1 heruntergeladenen Datei.
+   Dabei muss **[Port]** durch den in Schritt 3 bestimmten Port ersetzt werden und **[Datei]** durch den Namen der in Schritt 1 heruntergeladenen Datei.
 
 [1]: https://micropython.org/download#esp32

@@ -26,6 +26,21 @@
       "page": "1-4-breadboard"
     },
     {
+      "id": 474290,
+      "title": "Digitale Ausgabe",
+      "page": "1-5-digital-output"
+    },
+    {
+      "id": 455514,
+      "title": "Digitale Eingabe",
+      "page": "1-6-digital-input"
+    },
+    {
+      "id": 867515,
+      "title": "Ein-/Ausgabe MicroPython",
+      "page": "1-7-digital-micropython"
+    },
+    {
       "id": 531642,
       "title": "Mikrocontroller",
       "page": "2-0-microcontroller",
