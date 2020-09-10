@@ -1,86 +1,87 @@
 {
   "id": 90476,
   "title": "Pygame Zero",
-  "cover": "images/cover.svg",
+  "cover": "cover.svg",
   "base": "ref/pgzero",
   "icon": "reference",
+  "page": "README",
   "items": [
     {
       "id": 454930,
       "title": "Fenster",
-      "page": "1-window"
+      "page": "1-window/"
     },
     {
       "id": 581087,
       "title": "Animation",
-      "page": "2-animation"
+      "page": "2-animation/"
     },
     {
       "id": 691085,
       "title": "Aktor",
-      "page": "3-actor"
+      "page": "3-actor/"
     },
     {
       "id": 549867,
       "title": "Tastatur",
-      "page": "4-0-keyboard",
+      "page": "4-keyboard/",
       "items": [
         {
           "id": 841457,
           "title": "Tastaturzustand",
-          "page": "4-1-keyboard-state"
+          "page": "4-keyboard/1-state/"
         },
         {
           "id": 278429,
           "title": "Tastaturereignisse",
-          "page": "4-2-keyboard-event"
+          "page": "4-keyboard/2-event/"
         }
       ]
     },
     {
       "id": 72337,
       "title": "Maus",
-      "page": "5-mouse"
+      "page": "5-mouse/"
     },
     {
       "id": 544798,
       "title": "Zeichnen",
-      "page": "6-draw"
+      "page": "6-draw/"
     },
     {
       "id": 677391,
       "title": "Aufrufe planen",
-      "page": "7-clock"
+      "page": "7-clock/"
     },
     {
       "id": 248858,
       "title": "Musik und Soundeffekte",
-      "page": "8-sound"
+      "page": "8-sound/"
     },
     {
       "id": 341748,
       "title": "How-To",
-      "page": "8-0-howto",
+      "page": "9-howto/",
       "items": [
         {
           "id": 646059,
           "title": "Tastatursteuerung",
-          "page": "8-1-keyboard-control"
+          "page": "9-howto/1-keyboard-control/"
         },
         {
           "id": 148454,
           "title": "Jump & Run",
-          "page": "8-2-jump"
+          "page": "9-howto/2-jump/"
         },
         {
           "id": 962858,
           "title": "Parallax",
-          "page": "8-3-parallax"
+          "page": "9-howto/3-parallax/"
         },
         {
           "id": 486339,
           "title": "Geschoss",
-          "page": "8-4-bullet"
+          "page": "9-howto/4-bullet/"
         }
       ]
     },
