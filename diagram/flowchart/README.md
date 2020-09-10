@@ -9,32 +9,32 @@ Ein Flussdiagramm wird aus folgenden Grundelementen aufgebaut:
 
 ::: cards 3
 
-![](images/flowchart-start.svg)
+![](./start.svg)
 
 #### Anfang
 Der Anfang eines Ablaufs wird mit einem abgerundeten Rechteck markiert. Im Rechteck steht «Start» oder der Name des Unterprogramms.
 
 ***
-![](images/flowchart-action.svg)
+![](./action.svg)
 
 #### Aktion
 Eine normale Aktion oder Anweisung steht in einem Rechteck.
 
 ***
-![](images/flowchart-end.svg)
+![](./end.svg)
 
 #### Ende
 Das Ende eines Ablaufs wird mit einem abgerundeten Rechteck markiert. Im Rechteck steht «Ende».
 
 ***
-![](images/flowchart-decision.svg)
+![](./decision.svg)
 
 #### Entscheidung
 
 Eine Entscheidung wird in einer Raute dargestellt.
 
 ***
-![](images/flowchart-call.svg)
+![](./call.svg)
 
 #### Aufruf
 
@@ -45,4 +45,4 @@ Der Aufruf eines Unterprogramms wird in einem Rechteck mit doppelten Seitenränd
 
 Das Flussdiagramm unten links beschreibt, wie Spaghetti gekocht werden. Das Flussdiagramm unten rechts beschreibt, wie Spaghetti Napoletana gekocht werden. Dabei wird der Spaghetti-Algorithmus mit einem **Aufruf** (rot) wiederverwendet.
 
-![](images/flowchart-spaghetti.svg)
+![](./spaghetti.svg)
