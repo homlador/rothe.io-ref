@@ -24,7 +24,7 @@ import machine
 up_pin = machine.Pin(34, machine.Pin.IN)
 
 while True:
-    if up_pin.value():
+    if not up_pin.value():
         # do something
 ```
 
@@ -35,12 +35,15 @@ while True:
 import machine
 
 up_pin = machine.Pin(34, machine.Pin.IN)
-up_current = False
-up_last = False
+up_current = False # aktueller Zustand der Taste
+up_last = False    # vorheriger Zustand der Taste
 
 while True:
+    # Speichere aktuellen Zustand der Taste in up_current
     up_current = not up_pin.value()
+    # Wenn Taste jetzt gedrückt ist und vorher nicht, dann mache etwas
     if up_current and not up_last:
         # do something
+    # Speichere aktuellen Zustand als vorherigen
     up_last = up_current
 ```
