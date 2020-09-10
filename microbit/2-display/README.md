@@ -3,7 +3,7 @@
 
 Das Display des micro:bit besteht aus 5×5 Leuchtdioden. Auf der folgenden Abbildung ist das Koordinatensystem des Displays abgebildet:
 
-![Koordinatensystem der LED-Matrix](images/microbit-display.svg)
+![Koordinatensystem der LED-Matrix](./microbit-display.svg)
 
 ~~~ python
 display.clear()

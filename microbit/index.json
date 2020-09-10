@@ -1,77 +1,78 @@
 {
   "id": 339272,
   "title": "micro:bit",
-  "cover": "images/cover.png",
+  "cover": "cover.png",
   "base": "ref/microbit",
+  "page": "README",
   "icon": "reference",
   "items": [
     {
       "id": 658265,
       "title": "Aufbau",
-      "page": "hardware"
+      "page": "hardware/"
     },
     {
       "id": 51594,
       "title": "Microbit",
-      "page": "1-microbit"
+      "page": "1-microbit/"
     },
     {
       "id": 513810,
       "title": "Display",
-      "page": "2-display"
+      "page": "2-display/"
     },
     {
       "id": 909937,
       "title": "Bilder",
-      "page": "3-image"
+      "page": "3-image/"
     },
     {
       "id": 721711,
       "title": "Tasten",
-      "page": "4-buttons"
+      "page": "4-buttons/"
     },
     {
       "id": 282041,
       "title": "Beschleunigungssensor",
-      "page": "5-accelerometer"
+      "page": "5-accelerometer/"
     },
     {
       "id": 224304,
       "title": "Magnetometer",
-      "page": "6-compass"
+      "page": "6-compass/"
     },
     {
       "id": 407326,
       "title": "digitale Ein-/Ausgabe",
-      "page": "7-digital-io"
+      "page": "7-digital-io/"
     },
     {
       "id": 415912,
       "title": "analoge Ein-/Ausgabe",
-      "page": "8-analog-io"
+      "page": "8-analog-io/"
     },
     {
       "id": 833571,
       "title": "Funk",
       "icon": "construction",
-      "page": "9-radio"
+      "page": "9-radio/"
     },
     {
       "id": 136084,
       "title": "Aufgaben",
       "icon": "mdi-pencil",
-      "page": "exercises"
+      "page": "exercises/"
     },
     {
       "id": 670673,
       "title": "Kleine Projekte",
       "icon": "mdi-pencil",
-      "page": "projects"
+      "page": "projects/"
     },
     {
       "id": 992044,
       "title": "Firmware-Update",
-      "page": "firmware"
+      "page": "firmware/"
     }
   ]
 }

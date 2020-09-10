@@ -88,32 +88,32 @@
     {
       "id": 686648,
       "title": "Beispiele",
-      "page": "9-0-examples",
+      "page": "A-examples/",
       "items": [
         {
           "id": 812352,
           "title": "Pong",
-          "page": "9-1-pong"
+          "page": "A-examples/1-pong/"
         },
         {
           "id": 830627,
           "title": "Malprogramm",
-          "page": "9-2-paint"
+          "page": "A-examples/2-paint/"
         },
         {
           "id": 807752,
           "title": "Tipp-Spiel",
-          "page": "9-3-typing"
+          "page": "A-examples/3-typing/"
         },
         {
           "id": 973215,
           "title": "Push to Hole",
-          "page": "9-4-push-to-hole"
+          "page": "A-examples/4-push-to-hole/"
         },
         {
           "id": 968856,
           "title": "Asteriods",
-          "page": "9-5-asteroids"
+          "page": "A-examples/5-asteroids/"
         }
       ]
     }

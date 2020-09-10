@@ -1,11 +1,4 @@
 {
-  "cover.png": {
-    "author_name": "micro:bit Educational Foundation",
-    "author_uri": "http://microbit.org/",
-    "licence": "CC-BY-NC-SA-4.0",
-    "source_name": "GitHub",
-    "source_uri": "https://github.com/microbit-foundation/microbit-svg"
-  },
   "microbit-back-tags.png": {
     "author_name": "Lena Gappmaier",
     "author_uri": "https://microbit.eeducation.at/wiki/Hauptseite",
@@ -21,12 +14,5 @@
     "licence_uri": "https://creativecommons.org/licenses/by/4.0/",
     "source_name": "eEducation Austria - Digitale Bildung für alle",
     "source_uri": "https://microbit.eeducation.at/wiki/Hauptseite"
-  },
-  "microbit-red-heart.png": {
-    "author_name": "micro:bit Educational Foundation",
-    "author_uri": "http://microbit.org/",
-    "licence": "CC-BY-NC-SA-4.0",
-    "source_name": "GitHub",
-    "source_uri": "https://github.com/microbit-foundation/microbit-svg"
   }
 }

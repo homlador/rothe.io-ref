@@ -40,7 +40,7 @@ pin.write_digital(value)
 ~~~
 schaltet den Anschluss ein oder aus. Der Anschluss wird eingeschaltet, wenn `value` den Wert `1` hat und ausgeschaltet, wenn `value` den Wert `0` hat.
 
-``` python samples/blink.py
+``` python ./blink.py
 ```
 
 ## Touch-Tasten

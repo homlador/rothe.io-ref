@@ -26,7 +26,7 @@ Der Eintrag _Interface Version_ bezeichnet die Versionsnummer der Firmware.
 
 Die neueste Firmware kann direkt hier herunterladen werden:
 
-* [:download: micro:bit-Firmware Version 253](0253_kl26z_microbit_0x8000.hex)
+* [:download: micro:bit-Firmware Version 253](./0253_kl26z_microbit_0x8000.hex)
 
 Die offizielle Download-Seite für die micro:bit-Firmware ist hier:
 
