@@ -104,8 +104,24 @@
           "id": 817676,
           "title": "Joystick",
           "page": "4-1-joystick"
+        },
+        {
+          "id": 542322,
+          "title": "SCD30 Kohlendioxidsensor",
+          "page": "4-2-scd30"
         }
       ]
+    },
+    {
+      "id": 793537,
+      "title": "Zeitmessung",
+      "page": "6-9-utime"
+    },
+    {
+      "id": 605358,
+      "title": "Firmware-Update",
+      "icon": "construction",
+      "page": "6-A-update-firmware"
     }
   ]
 }
