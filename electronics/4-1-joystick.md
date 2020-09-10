@@ -24,7 +24,6 @@ import machine
 up_pin = machine.Pin(34, machine.Pin.IN)
 
 while True:
-    up_current = not up_pin.value()
     if up_pin.value():
         # do something
 ```
@@ -34,8 +33,8 @@ while True:
 
 ``` python
 import machine
-up_pin = machine.Pin(34, machine.Pin.IN)
 
+up_pin = machine.Pin(34, machine.Pin.IN)
 up_current = False
 up_last = False
 
