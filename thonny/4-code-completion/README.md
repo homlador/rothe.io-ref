@@ -7,6 +7,6 @@ In Thonny kann beim Schreiben des Programmcodes jederzeit die Tastenkombination 
 
 Wenn beispielsweise nach der Eingabe von `import r` die Vervollständigung aufgerufen wird, werden alle vorhandenen Module angezeigt, welche mit «r» beginnen:
 
-![Thonny: Automatische Vervollständigung](images/thonny-code-completion.png)
+![Thonny: Automatische Vervollständigung](./code-completion.png)
 
 Nun kann mit den Pfeiltasten oder der Maus in der Liste der Vorschläge nach dem gewünschten Eintrag gesucht werden. Durch drücken der Eingabetaste [Enter] wird der ausgewählte Vorschlag in den Programmcode übernommen.

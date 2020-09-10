@@ -3,7 +3,7 @@
 
 Ein **Interpreter** ist ein Programm, welches Programmquellcode Schritt für Schritt ausführt. In den Einstellungen von Thonny (_Tools ‣ Options… ‣ Interpreter_) kann ausgewählt werden, mit welchem Interpreter man die Python-Skripts in Thonny ausführen möchte.
 
-![](images/thonny-options-interpreter.png)
+![](./options-interpreter.png)
 
 Für uns sind drei Möglichkeiten relevant:
 

@@ -1,35 +1,35 @@
 {
   "id": 366050,
   "title": "Thonny",
-  "cover": "images/cover.png",
+  "cover": "cover.png",
   "base": "ref/thonny",
   "icon": "reference",
-  "page": "index",
+  "page": "README",
   "items": [
     {
       "id": 717866,
       "title": "Installation",
-      "page": "1-install"
+      "page": "1-install/"
     },
     {
       "id": 205093,
       "title": "Einstellungen",
-      "page": "2-options"
+      "page": "2-options/"
     },
     {
       "id": 570263,
       "title": "Paketverwaltung",
-      "page": "3-packages"
+      "page": "3-packages/"
     },
     {
       "id": 238449,
       "title": "Code-Vervollständigung",
-      "page": "4-code-completion"
+      "page": "4-code-completion/"
     },
     {
       "id": 171122,
       "title": "Interpreter",
-      "page": "5-interpreter"
+      "page": "5-interpreter/"
     }
   ]
 }

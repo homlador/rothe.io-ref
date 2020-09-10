@@ -1,7 +1,7 @@
 # :reference: Thonny
 ---
 
-![Thonny-Entwicklungsumgebung](images/thonny.png)
+![Thonny-Entwicklungsumgebung](./thonny.png)
 
 Das Hauptfenster von Thonny besteht aus vier Bereichen:
 

@@ -17,31 +17,31 @@ Lade Thonny herunter und installiere es:
 
 1. Lade das Installationsprogramm mit dem obenstehenden Link herunter und starte es anschliessend. Wenn du das folgende Fenster siehst, klicke auf _Next_:
 
-    ![](images/thonny-install-1.png)
+    ![](./install-1.png)
 
 2. Klicke auf _Next_:
 
-    ![](images/thonny-install-2.png)
+    ![](./install-2.png)
 
 3. Klicke auf _Next_:
 
-    ![](images/thonny-install-3.png)
+    ![](./install-3.png)
 
 4. Klicke auf _Next_:
 
-    ![](images/thonny-install-4.png)
+    ![](./install-4.png)
 
 5. Klicke auf _Install_:
 
-    ![](images/thonny-install-5.png)
+    ![](./install-5.png)
 
 6. Hier einfach geduldig warten:
 
-    ![](images/thonny-install-6.png)
+    ![](./install-6.png)
 
 7. Geschafft! Klicke auf _Finish_:
 
-    ![](images/thonny-install-7.png)
+    ![](./install-7.png)
 
 :::
 

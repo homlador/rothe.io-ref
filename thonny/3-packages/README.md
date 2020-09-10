@@ -3,7 +3,7 @@
 
 In Thonny können bequem sämtliche Pakete aus dem [Python Package Index](https://pypi.python.org/pypi?%3Aaction=browse) installiert werden. Dazu wird über den Menüpunkt _Tools ‣ Manage packages…_ des Paketmanager geöffnet:
 
-![Thonny: Pakete installieren](images/thonny-packages.png)
+![Thonny: Pakete installieren](./packages.png)
 
 ## Neues Paket installieren
 
@@ -16,4 +16,4 @@ Gehe folgendermassen vor, um ein neues Paket zu installieren:
 5. Allenfalls auf den Knopf _…_ klicken und die gewünschte Version auswählen.
 6. Auf _Install_ klicken.
 
-![Thonny: Pakete installieren](images/thonny-packages-install.svg)
+![Thonny: Pakete installieren](./packages-install.svg)
