@@ -8,90 +8,90 @@
     {
       "id": 612904,
       "title": "Löten",
-      "page": "1-1-soldering"
+      "page": "1-1-soldering/"
     },
     {
       "id": 778659,
       "title": "Grundlagen Elektronik",
-      "page": "1-2-basics"
+      "page": "1-2-basics/"
     },
     {
       "id": 786013,
       "title": "Digitale Schaltung",
-      "page": "1-3-digital-circuit"
+      "page": "1-3-digital-circuit/"
     },
     {
       "id": 684527,
       "title": "Steckplatine",
-      "page": "1-4-breadboard"
+      "page": "1-4-breadboard/"
     },
     {
       "id": 474290,
       "title": "Digitale Ausgabe",
-      "page": "1-5-digital-output"
+      "page": "1-5-digital-output/"
     },
     {
       "id": 455514,
       "title": "Digitale Eingabe",
-      "page": "1-6-digital-input"
+      "page": "1-6-digital-input/"
     },
     {
       "id": 867515,
       "title": "Ein-/Ausgabe MicroPython",
-      "page": "1-7-digital-micropython"
+      "page": "1-7-digital-micropython/"
     },
     {
       "id": 531642,
       "title": "Mikrocontroller",
-      "page": "2-0-microcontroller",
+      "page": "2-microcontroller/",
       "items": [
         {
           "id": 528021,
           "title": "Lolin D32",
-          "page": "2-1-lolin-d32"
+          "page": "2-microcontroller/1-lolin-d32/"
         },
         {
           "id": 46152,
           "title": "Lolin D32 Pro",
-          "page": "2-2-lolin-d32-pro"
+          "page": "2-microcontroller/2-lolin-d32-pro/"
         },
         {
           "id": 605358,
           "title": "Firmware-Update",
           "icon": "construction",
-          "page": "6-A-update-firmware"
+          "page": "2-microcontroller/firmware/"
         }
       ]
     },
     {
       "id": 701702,
       "title": "Displays",
-      "page": "3-0-display",
+      "page": "3-display/",
       "items": [
         {
           "id": 751971,
           "title": "NeoPixel",
-          "page": "3-1-neopixel"
+          "page": "3-display/1-neopixel/"
         },
         {
           "id": 330200,
           "title": "OLED-Display 0.96\"",
-          "page": "3-2-oled-0_96"
+          "page": "3-display/2-oled-0_96/"
         },
         {
           "id": 262857,
           "title": "OLED-Display 1.3\"",
-          "page": "3-3-oled-1_3"
+          "page": "3-display/3-oled-1_3/"
         },
         {
           "id": 463666,
           "title": "Farb-LCD-Display 1.8\"",
-          "page": "3-4-colour-lcd-1_8"
+          "page": "3-display/4-colour-lcd-1_8/"
         },
         {
           "id": 547356,
           "title": "Displays mit MicroPython",
-          "page": "3-9-micropython"
+          "page": "3-display/9-micropython/"
         }
       ]
     },

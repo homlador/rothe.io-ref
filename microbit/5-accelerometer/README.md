@@ -66,3 +66,13 @@ accelerometer.was_gesture(name)
 accelerometer.get_gestures()
 ~~~
 liefert eine Liste aller Gesten zurück, die seit dem letzten Aufruf der Funktion aktiv waren.
+
+## Beispiel 1
+
+``` python ./accelerometer_test.py
+```
+
+## Beispiel 2 - Schrittzähler
+
+``` python ./pedometer.py
+```

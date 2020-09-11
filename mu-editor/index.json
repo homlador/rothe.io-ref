@@ -1,40 +1,40 @@
 {
   "id": 121057,
   "title": "Mu Editor",
-  "cover": "images/cover.png",
+  "cover": "cover.png",
   "base": "ref/mu-editor",
   "icon": "reference",
-  "page": "index",
+  "page": "index/",
   "items": [
     {
       "id": 717865,
       "title": "Installation",
-      "page": "1-install"
+      "page": "1-install/"
     },
     {
       "id": 205516,
       "title": "Modus Pygame Zero",
-      "page": "2-mode-pgzero"
+      "page": "2-mode-pgzero/"
     },
     {
       "id": 123822,
       "title": "Modus Python",
-      "page": "3-mode-python"
+      "page": "3-mode-python/"
     },
     {
       "id": 748812,
       "title": "Modus micro:bit",
-      "page": "4-mode-microbit"
+      "page": "4-mode-microbit/"
     },
     {
       "id": 645046,
       "title": "Modus ESP MicroPython",
-      "page": "5-mode-esp"
+      "page": "5-mode-esp/"
     },
     {
       "id": 238448,
       "title": "Code-Vervollständigung",
-      "page": "6-code-completion"
+      "page": "6-code-completion/"
     }
   ]
 }
