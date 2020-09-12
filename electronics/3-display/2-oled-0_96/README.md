@@ -1,7 +1,7 @@
 # OLED-Display 0.96"
 ---
 
-![OLED-Display 0.96"](./oled-0_96.png)
+![OLED-Display 0.96" ©](./oled-0_96.png)
 
 * [:link: Shop][1]
 

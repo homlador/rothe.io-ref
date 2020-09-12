@@ -8,18 +8,18 @@ Wemos Lolin ESP32 ist ein Mikrocontroller-Board, welches auf dem ESP32-Mikrocont
 - I<sup>2</sup>C-Schnittstelle
 - SPI-Schnittstelle
 
-![WEMOS Lolin D32 Board](./wemos-lolin-d32-top.jpg)
+![WEMOS Lolin D32 Board ©](./wemos-lolin-d32-top.jpg)
 
 ## Pinbelegung
 
 Am Pin 5 ist die eingebaute, blaue Leuchtdiode angeschlossen.
 
-::: box warning
+::: warning
 #### Pin 12 nicht benutzen
 Am Pin 12 darf nichts angeschlossen werden, sonst bootet der Mikrocontroller nicht mehr.
 :::
 
-![Pinbelegung des WEMOS Lolin D32 Pro Boards](./wemos-lolin-d32-pro-pinout.png)
+![Pinbelegung des WEMOS Lolin D32 Pro Boards ©](./wemos-lolin-d32-pro-pinout.png)
 
 ## Treiber
 

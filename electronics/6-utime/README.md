@@ -28,7 +28,7 @@ utime.sleep(s)
 ~~~
 hält die Ausführung des Programms während `s` Sekunden an.
 
-``` python python/blink.py
+``` python ./blink.py
 ```
 
 Das führt aber dazu, dass während der Wartezeit keine anderen Anweisungen abgearbeitet werden, das Programm **blockiert**. Für ein interaktives System, welches kontinuierlich auf Ereignisse reagieren muss, kann dieser Ansatz nicht verwendet werden.
@@ -70,10 +70,10 @@ Mit den vorgestellten Funktionen kann ein nicht-blockierendes Warten programmier
 
 3. **Wecker abstellen:** Wenn die Weckzeit erreicht wurde, wird die gewünscht Aktion ausgeführt. Damit die Aktion nicht immer wieder ausgeführt wird, wird der Wecker «abgestellt», indem die Weckzeit auf einen negativen Wert gestellt wird. Bei der Überprüfung muss dies berücksichtigt werden.
 
-``` python python/delay_nonblocking.py
+``` python ./delay_nonblocking.py
 ```
 
 Nicht-blockierendes Warten kann auch für regelmässige wiederkehrende Aktionen verwendet werden:
 
-``` python python/blink_nonblocking.py
+``` python ./blink_nonblocking.py
 ```

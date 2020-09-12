@@ -60,13 +60,13 @@
     {
       "id": 136084,
       "title": "Aufgaben",
-      "icon": "mdi-pencil",
+      "icon": "exercise",
       "page": "exercises/"
     },
     {
       "id": 670673,
       "title": "Kleine Projekte",
-      "icon": "mdi-pencil",
+      "icon": "exercise",
       "page": "projects/"
     },
     {

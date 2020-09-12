@@ -3,14 +3,14 @@
 
 Der SCD30 ist ein Sensor, welcher den Kohlendioxidgehalt der Luft sowie Temperatur und Feuchtigkeit misst.
 
-![](images/scd30.png "Sensirion SCD30 Sensor")
+![Sensirion SCD30 Sensor](./scd30.png)
 
 * [:link: Shop][1]
 
 ## Anschluss
 
 | Pin | Bedeutung                           | ESP32 |
-| --- | ----------------------------------- | -----:|
+|:--- |:----------------------------------- | -----:|
 | VCC | Stromversorgung 3.3 bis 5.5 V       |    3V |
 | GND | Masse                               |   GND |
 | SCL | I<sup>2</sup>C Taktleitung          |    22 |
@@ -26,7 +26,7 @@ Mit einer hohen Spannung am Pin **SEL** kann auf das Kommunikationsprotokoll Mod
 ## Messbereich
 
 | Messwert     | Bereich            | Genauigkeit         |
-| ------------ | ------------------ | ------------------- |
+|:------------ |:------------------ |:------------------- |
 | Kohlendioxid | 400 bis 10'000 ppm | ± 30 ppm            |
 | Feuchtigkeit | 0 bis 100 % RH     | ±3.0 % RH bei 25 °C |
 | Temperatur   | -40 bis 70 °C      | ±0.4 °C             |

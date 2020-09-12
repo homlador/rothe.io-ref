@@ -1,7 +1,7 @@
 # Joystick
 ---
 
-![](images/joystick.png)
+![](./joystick.png)
 
 * [:link: Shop][1]
 

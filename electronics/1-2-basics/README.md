@@ -44,7 +44,7 @@ Ein Widerstand hemmt die Ladungen beim Durchgang, je nach Grösse des Widerstand
 Der Widerstandswert in Ohm wird durch die Farbringe gekennzeichnet.
 Jeder Farbe ist eine Zahl zwischen -2 und 9 zugeordnet.
 
-![Farbcodierung des Widerstandswerts](./resistor-color-codes.svg)
+![Farbcodierung des Widerstandswerts ©](./resistor-color-codes.svg)
 
 ## Leuchtdiode
 - Eine Leuchtdiode (engl. light emitting diode, LED) erzeugt Licht, wenn durch sie Strom hindurchfliesst.
@@ -78,7 +78,7 @@ $$R_V = \frac{U_V}{I} = \frac{U - U_L}{I}$$
 | $U$           | Gesamtspannung                |
 | $U_L$         | Spannung über der Leuchtdiode |
 
-::: task Einfache Schaltung mit Leuchtdiode
+::: exercise Einfache Schaltung mit Leuchtdiode
 1. Berechne den benötigten Vorwiderstand für eine rote Leuchtdiode (20 mA, 1.6 V) bei einer 3.3&nbsp;V- sowie bei einer 5&nbsp;V-Spannungsquelle.
 2. Vergleiche Deine Lösung mit der Musterlösung.
 3. Bringe eine Leuchtdiode zum Leuchten, indem Du den obenstehenden Schaltkreis realisierst, also eine Leuchtdiode mit Vorwiderstand an der Spannungsquelle (zwischen 3V und GND) anschliesst

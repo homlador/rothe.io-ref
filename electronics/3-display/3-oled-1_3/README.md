@@ -1,7 +1,7 @@
 # OLED-Display 1.3"
 ---
 
-![OLED-Display 1.3"](./oled-1_3.svg)
+![OLED-Display 1.3" ©](./oled-1_3.svg)
 
 * [:link: Shop][1]
 

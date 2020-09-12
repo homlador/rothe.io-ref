@@ -1,7 +1,8 @@
 # :reference: micro:bit
 ---
 
-![micro:bit](./microbit-red-heart.png)
+![micro:bit ©](./microbit-red-heart.png)
+
 
 
 ## Python auf dem micro:bit

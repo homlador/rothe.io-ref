@@ -15,12 +15,12 @@ Wemos Lolin ESP32 Pro ist ein Mikrocontroller-Board, welches auf dem ESP32-Mikro
 
 Am Pin 5 ist die eingebaute, blaue Leuchtdiode angeschlossen.
 
-::: box warning
+::: warning
 #### Pin 12 nicht benutzen
 Am Pin 12 darf nichts angeschlossen werden, sonst bootet der Mikrocontroller nicht mehr.
 :::
 
-![Pinbelegung des WEMOS Lolin D32 Pro Boards](./wemos-lolin-d32-pro-pinout.png)
+![Pinbelegung des WEMOS Lolin D32 Pro Boards ©](./wemos-lolin-d32-pro-pinout.png)
 
 ## Treiber
 
