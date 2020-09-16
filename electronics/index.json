@@ -109,13 +109,55 @@
           "id": 542322,
           "title": "SCD30 Kohlendioxidsensor",
           "page": "4-sensor/2-scd30/"
+        },
+        {
+          "id": 955207,
+          "title": "DHT22 Temperatursensor",
+          "page": "4-sensor/3-dht22/"
+        },
+        {
+          "id": 79036,
+          "title": "Echtzeituhr DS3231",
+          "page": "4-sensor/4-ds3231/"
         }
       ]
     },
     {
-      "id": 793537,
-      "title": "Zeitmessung",
-      "page": "6-utime/"
+      "id": 456856,
+      "title": "MicroPython",
+      "page": "6-micropython/",
+      "items": [
+        {
+          "id": 402134,
+          "title": "Analoge Eingabe",
+          "page": "6-micropython/4-analog/"
+        },
+        {
+          "id": 561409,
+          "title": "I2C",
+          "page": "6-micropython/5-i2c/"
+        },
+        {
+          "id": 713185,
+          "title": "SPI",
+          "page": "6-micropython/6-spi/"
+        },
+        {
+          "id": 793537,
+          "title": "Zeitmessung",
+          "page": "6-micropython/9-utime/"
+        }
+      ]
+    },
+    {
+      "id": 820762,
+      "title": "Stromanschluss",
+      "page": "9-ac-power/"
+    },
+    {
+      "id": 196725,
+      "title": "Shops",
+      "page": "shops/"
     }
   ]
 }

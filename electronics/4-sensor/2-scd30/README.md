@@ -3,7 +3,7 @@
 
 Der SCD30 ist ein Sensor, welcher den Kohlendioxidgehalt der Luft sowie Temperatur und Feuchtigkeit misst.
 
-![Sensirion SCD30 Sensor](./scd30.png)
+![Sensirion SCD30 Sensor ©](./scd30.png)
 
 * [:link: Shop][1]
 
@@ -36,7 +36,7 @@ Mit einer hohen Spannung am Pin **SEL** kann auf das Kommunikationsprotokoll Mod
 
 Um den Sensor verwenden zu können muss der folgende Treiber für MicroPython auf dem Mikrocontroller installiert werden:
 
-* [:download: SCD30-Treiber für MicroPython](python/scd30.py)
+* [:download: SCD30-Treiber für MicroPython](./scd30.py)
 * [:link: GitHub-Seite zu SCD30-Treiber][2]
 
 Der Treiber muss in Python als Modul importiert werden:
@@ -100,7 +100,7 @@ liest die Werte der letzten Messung aus. Es wird ein Tupel bestehend aus drei We
 
 Für das folgende Beispiel wird angenommen, dass ein ESP32-Mikrocontroller verwendet wird, bei welchem sich der I<sup>2</sup>C-Bus an den Pins 21 und 22 befindet:
 
-``` python python/scd30_example.py
+``` python ./scd30_example.py
 ```
 
 [1]: https://www.mouser.ch/ProductDetail/?qs=sGAEpiMZZMve4%2FbfQkoj%252BKTXH1e2FQdCU1EEDcnGCNw%3D
