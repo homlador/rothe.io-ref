@@ -2,6 +2,36 @@ from machine import I2C
 import utime
 import struct
 
+class EasySCD30:
+    def __init__(self, i2c):
+        self.co2 = 0.0
+        self.temperature = 0
+        self.humidity = 0
+        try:
+            self.sensor = SCD30(i2c, 97)
+            utime.sleep_ms(500)
+            self.sensor.set_measurement_interval(2)
+            utime.sleep_ms(500)
+            self.sensor.start_continous_measurement()
+            utime.sleep_ms(500)
+            self.sensor.soft_reset()
+            utime.sleep_ms(500)
+            self.ready = True
+        except SCD30.NotFoundException:
+            self.ready = False
+
+    def read(self):
+        if not self.sensor:
+            return
+        try:
+            self.ready = self.sensor.get_status_ready() == 1
+        except:
+            self.ready = False
+        if self.ready:
+            self.co2, self.temperature, self.humidity = self.sensor.read_measurement()
+
+
+
 class SCD30:
 
     class NotFoundException(Exception):
