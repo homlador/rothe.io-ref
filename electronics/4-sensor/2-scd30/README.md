@@ -3,7 +3,7 @@
 
 Der SCD30 ist ein Sensor, welcher den Kohlendioxidgehalt der Luft sowie Temperatur und Feuchtigkeit misst.
 
-![Sensirion SCD30 Sensor ©](./scd30.png)
+![Sensirion SCD30 Sensor ©](./scd30.svg)
 
 * [:link: Shop][1]
 
