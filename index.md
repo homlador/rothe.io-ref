@@ -2,10 +2,10 @@
 ---
 
 ::: cards 3
-<VueBook name="diagram"/>
+<VueBook name="microbit-ref"/>
 
 ***
-<VueBook name="electronics"/>
+<VueBook name="pgzero-ref"/>
 
 ***
 <VueBook name="python-ref"/>
@@ -17,8 +17,9 @@
 <VueBook name="mu-editor"/>
 
 ***
-<VueBook name="pgzero-ref"/>
+<VueBook name="diagram"/>
 
 ***
-<VueBook name="microbit-ref"/>
+<VueBook name="electronics"/>
+
 :::

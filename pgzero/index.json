@@ -4,7 +4,7 @@
   "cover": "cover.svg",
   "base": "ref/pgzero",
   "icon": "reference",
-  "page": "index/",
+  "page": "README",
   "items": [
     {
       "id": 454930,

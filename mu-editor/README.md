@@ -10,19 +10,19 @@ Wir verwenden für die Programmierung den **Mu**-Editor:
 
 Der Mu Editor hat ein relativ einfaches Menü. Die meisten Befehle stehen in jedem Modus zu Verfügung. Sie sind in der folgenden Tabelle aufgeführt. Die Befehle zwischen **Save** und **Zoom-in** ändern sich je nach Modus. Sie werden beim entsprechenden Modus erklärt.
 
-| Icon                   | Beschreibung                                   |
-|:---------------------- |:---------------------------------------------- |
-| ![](./mu-modes.png)    | eine Liste aller Modi anzeigen                 |
-| ![](./mu-new.png)      | ein neues Python-Programm erstellen            |
-| ![](./mu-load.png)     | eine gespeichertes Python-Programm laden       |
-| ![](./mu-save.png)     | das aktuelle Python-Programm speichern         |
-| ![](./mu-zoom-in.png)  | die Schrift vergrössern                        |
-| ![](./mu-zoom-out.png) | die Schrift verkleinern                        |
-| ![](./mu-theme.png)    | das Aussehen ändern                            |
-| ![](./mu-check.png)    | das aktuelle Programm auf Fehler überprüfen    |
-| ![](./mu-tidy.png)     | den aktuellen Programmcode  sauber formatieren |
-| ![](./mu-help.png)     | Webseite mit Anleitungen (auf Englisch) öffnen |
-| ![](./mu-quit.png)     | das Programm schliessen                        |
+| Icon                        | Beschreibung                                   |
+|:--------------------------- |:---------------------------------------------- |
+| ![](./icon/mu-modes.png)    | eine Liste aller Modi anzeigen                 |
+| ![](./icon/mu-new.png)      | ein neues Python-Programm erstellen            |
+| ![](./icon/mu-load.png)     | eine gespeichertes Python-Programm laden       |
+| ![](./icon/mu-save.png)     | das aktuelle Python-Programm speichern         |
+| ![](./icon/mu-zoom-in.png)  | die Schrift vergrössern                        |
+| ![](./icon/mu-zoom-out.png) | die Schrift verkleinern                        |
+| ![](./icon/mu-theme.png)    | das Aussehen ändern                            |
+| ![](./icon/mu-check.png)    | das aktuelle Programm auf Fehler überprüfen    |
+| ![](./icon/mu-tidy.png)     | den aktuellen Programmcode  sauber formatieren |
+| ![](./icon/mu-help.png)     | Webseite mit Anleitungen (auf Englisch) öffnen |
+| ![](./icon/mu-quit.png)     | das Programm schliessen                        |
 
 
 ## Modus

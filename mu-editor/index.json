@@ -4,7 +4,7 @@
   "cover": "cover.png",
   "base": "ref/mu-editor",
   "icon": "reference",
-  "page": "index/",
+  "page": "README",
   "items": [
     {
       "id": 717865,

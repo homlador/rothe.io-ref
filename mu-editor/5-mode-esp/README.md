@@ -3,12 +3,12 @@
 
 Im Modus ESP MicroPyhon können ESP-Mikrocontroller programmiert werden.
 
-| Icon                  | Beschreibung                                                             |
-|:--------------------- |:------------------------------------------------------------------------ |
-| ![](./mu-run.png)     | aktuelle Programm auf dem Mikrocontroller starten                        |
-| ![](./mu-repl.png)    | interaktive Python-Konsole (REPL) des Mikrocontrollers öffnen/schliessen |
-| ![](./mu-files.png)   | Dateimanager öffnen/schliessen                                           |
-| ![](./mu-plotter.png) | grafischen Datenplotter öffnen                                           |
+| Icon                       | Beschreibung                                                             |
+|:-------------------------- |:------------------------------------------------------------------------ |
+| ![](./icon/mu-run.png)     | aktuelle Programm auf dem Mikrocontroller starten                        |
+| ![](./icon/mu-repl.png)    | interaktive Python-Konsole (REPL) des Mikrocontrollers öffnen/schliessen |
+| ![](./icon/mu-files.png)   | Dateimanager öffnen/schliessen                                           |
+| ![](./icon/mu-plotter.png) | grafischen Datenplotter öffnen                                           |
 
 
 ## Dateimanager

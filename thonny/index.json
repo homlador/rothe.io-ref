@@ -4,7 +4,7 @@
   "cover": "cover.png",
   "base": "ref/thonny",
   "icon": "reference",
-  "page": "index/",
+  "page": "README",
   "items": [
     {
       "id": 717866,

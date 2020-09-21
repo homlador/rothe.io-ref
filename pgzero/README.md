@@ -1,7 +1,7 @@
 # :reference: Pygame Zero
 ---
 
-![](./logo.svg)
+![©](./logo.svg)
 
 * [:link: Offizielle Dokumentation][1]
 * [:link: Coding Games With Pygame Zero & Python][2]

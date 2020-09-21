@@ -3,7 +3,7 @@
   "title": "Diagramme",
   "base": "ref/diagram",
   "icon": "reference",
-  "page": "index/",
+  "page": "README",
   "items": [
     {
       "id": 911236,

@@ -4,6 +4,7 @@
   "cover": "cover.png",
   "base": "ref/electronics",
   "icon": "reference",
+  "page": "README",
   "items": [
     {
       "id": 612904,
