@@ -3,8 +3,8 @@
   "title": "micro:bit",
   "cover": "cover.png",
   "base": "ref/microbit",
-  "page": "README",
   "icon": "reference",
+  "page": "README",
   "items": [
     {
       "id": 658265,
